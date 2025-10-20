@@ -1,0 +1,26 @@
+<annotation>
+	<folder>images</folder>
+	<filename>frame_1700.jpg</filename>
+	<path>/mnt/nfs/kubernetes/jupyterhub/claim-pids2/datasets/DJI_473_535_2_63/images/frame_1700.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1280</width>
+		<height>720</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>robot</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>723</xmin>
+			<ymin>317</ymin>
+			<xmax>833</xmax>
+			<ymax>412</ymax>
+		</bndbox>
+	</object>
+</annotation>
