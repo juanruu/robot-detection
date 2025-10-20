@@ -1,0 +1,38 @@
+<annotation>
+	<folder>images</folder>
+	<filename>frame_0120.jpg</filename>
+	<path>C:\Users\juanp\OneDrive - Universidad Politécnica de Madrid\GISD\CURSO4\PIDS\robto-images\961\DJI_961_381_2_52\images\frame_0120.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1280</width>
+		<height>720</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>robot</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>187</xmin>
+			<ymin>250</ymin>
+			<xmax>369</xmax>
+			<ymax>444</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>robot</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>263</xmin>
+			<ymin>169</ymin>
+			<xmax>682</xmax>
+			<ymax>674</ymax>
+		</bndbox>
+	</object>
+</annotation>

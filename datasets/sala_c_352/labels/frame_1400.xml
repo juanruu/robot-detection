@@ -1,0 +1,38 @@
+<annotation>
+	<folder>images</folder>
+	<filename>frame_1400.jpg</filename>
+	<path>C:\Users\juanp\OneDrive - Universidad Politécnica de Madrid\GISD\CURSO4\PIDS\robto-images\352\DJI_352_250_2_52\images\frame_1400.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1280</width>
+		<height>720</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>robot</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>264</xmin>
+			<ymin>250</ymin>
+			<xmax>649</xmax>
+			<ymax>677</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>robot</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>910</xmin>
+			<ymin>302</ymin>
+			<xmax>1015</xmax>
+			<ymax>422</ymax>
+		</bndbox>
+	</object>
+</annotation>
